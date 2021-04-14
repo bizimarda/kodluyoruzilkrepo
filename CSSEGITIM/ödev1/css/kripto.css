@@ -1,0 +1,29 @@
+h3{
+    color:red;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 1;
+}
+a { color: gray;
+font-size: 15px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+p{
+    color: black;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.center
+{
+ text-align: center;
+ list-style-position: inside;
+}
+ol.center li
+ul{
+    list-style: none;
+    display: block;
+   
+}
+ul li{
+    display: inline;
+    position: relative;
+}
